@@ -1,5 +1,5 @@
 title:            Chaos
-description:      My contant struggle to manage chaos.
+description:      My constant struggle to manage chaos.
 url:              http://rustyautopsy.github.io
 signoff:          Travis Dolan
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -9,11 +9,13 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
+  - name:         Skills
+    url:          /skills
   - name:         Email
     url:          mailto:travis.dolan@gmail.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/ustyautopsy
+    url:          https://github.com/rustyautopsy/
     external:     true
 highlighter:      pygments
 permalink:        pretty
