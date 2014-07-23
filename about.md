@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+This is where I would  write stuff about me. Perhpas I can find a 'about me' gemerator on Google.
 
-Tweet at [@TravisDolan](https://twitter.com/TravisDolan), find my CV on [LinkedIn](http://www.linkedin.com/pub/travis-dolan/12/132/550)
+Tweet at [@TravisDolan](https://twitter.com/TravisDolan), LinkedIn  [LinkedIn](http://www.linkedin.com/pub/travis-dolan/12/132/550)
