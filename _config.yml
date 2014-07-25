@@ -3,7 +3,7 @@ description:      My constant struggle to manage chaos.
 url:              http://rustyautopsy.github.io
 signoff:          Travis Dolan
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+facebook_appid:   602553569857235
 google_analytics: UA-53212816-1
 
 links:
