@@ -11,6 +11,8 @@ links:
     url:          /about
   - name:         Skills
     url:          /skills
+  - name:         Rabbit Holes
+    url:          /rabbitholes
   - name:         Email
     url:          mailto:travis.dolan@gmail.com
     external:     true
